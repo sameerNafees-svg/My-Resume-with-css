@@ -1,0 +1,47 @@
+#Ali {
+    background-color: blue;
+    color: white;
+}
+
+h1,h2,p{
+    background-color: green;
+    color: white;
+}
+div.haseeb {
+        color: yellow !important;
+       background-color: black !important;
+   }
+   .header>p {
+       color: red;
+       background-color: skyblue;
+   }
+   .salman p{
+         color: purple;
+         background-color: pink;
+   }
+   .input-section input 
+   {background-color: lightgrey;
+    color: black;
+   }
+    input[type="text"] {
+        background-color: lightcoral;
+    }
+    h4,i,b{
+        color: brown;
+        background-color: lightgreen;
+    }
+    a[href="https://www.example.com"] {
+        color: orange;
+        background-color: lightyellow;
+    }
+    a[href="https://www.test.com"] {
+        color: greenyellow;
+        background-color: purple;
+    }
+    
+
+
+
+
+
+ 
