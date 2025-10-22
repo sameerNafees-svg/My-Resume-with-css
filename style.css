@@ -1,47 +1,44 @@
-#Ali {
-    background-color: blue;
-    color: white;
-}
 
 h1,h2,p{
-    background-color: green;
-    color: white;
+    background-color: seagreen;
+    color:yellow;
 }
-div.haseeb {
-        color: yellow !important;
-       background-color: black !important;
-   }
-   .header>p {
-       color: red;
-       background-color: skyblue;
-   }
-   .salman p{
-         color: purple;
-         background-color: pink;
-   }
-   .input-section input 
-   {background-color: lightgrey;
+#MyGuardians{
+    background-color: blue;
+    color: yellow;
+}
+div.MyQualifications{
+        color: yellow;
+        background-color: grey;
+}
+div.MySkills>p{
+    color: red;
+    background-color: lightgray;
+}
+div.Hobbies h1 {
+  color: darkblue;       /* h1 ka text color */
+  background-color: lightyellow;  /* optional: background color */
+}
+
+div.Hobbies p {
+  color: purple;         
+  background-color: lightblue;
+}
+div.References h1 + p {
+  color:whitesmoke;         
+  background-color: lightpink;
+}
+div.GeneralExample h2~p{
     color: black;
-   }
-    input[type="text"] {
-        background-color: lightcoral;
-    }
-    h4,i,b{
-        color: brown;
-        background-color: lightgreen;
-    }
-    a[href="https://www.example.com"] {
-        color: orange;
-        background-color: lightyellow;
-    }
-    a[href="https://www.test.com"] {
-        color: greenyellow;
-        background-color: purple;
-    }
+    background-color: lightgreen;
+}
+p{
+    background-color: lightyellow;!important;
+    color: brown;!important;
+}
+
+
     
 
 
 
-
-
- 
